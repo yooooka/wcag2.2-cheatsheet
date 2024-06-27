@@ -2,7 +2,7 @@
 
 by Yoshiko Oka Wright
 
-Learned to make those PDFs accessible. The files are including links to Web Content Accessibility Guidelines 2.2 documantations (English and Japanese).
+Learned to make those PDFs accessible. The success criteria are including links to Web Content Accessibility Guidelines 2.2 documantations (English and Japanese). Feel free to use them!
   
 - [English 英語](https://yooooka.github.io/wcag2.2-cheatsheet/WCAG2.2-A3-EN.pdf)
 
